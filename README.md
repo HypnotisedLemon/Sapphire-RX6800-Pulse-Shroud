@@ -1,5 +1,5 @@
 # Sapphire-RX6800-Pulse-Shroud
-1. A shroud for deshrouding RX6800 pulse. <br />
+1. A shroud for amking deshrouding look more elegant (hopefully). <br />
 2. It includes shrouds for 120mm and 92mm fans, for both standard and slim thickness. <br />
 3. An additional minimal shroud design for those who just want something for their fans to attach to and dont care about covering the bare heatsink. <br />
 
